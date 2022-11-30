@@ -3,16 +3,16 @@ snowflake-dw:
   outputs:
     dev:
       type: snowflake
-      account: so54991.us-central1.gcp
+      account: YOUR_ACCOUNT
 
       # User/password auth
-      user: AIRBYTE_USER
-      password: AIRBYTE_PASSWORD
+      user: YOUR_USER
+      password: YOUR_PASSWORD
 
-      role: AIRBYTE_ROLE
-      database: AIRBYTE_DATABASE
-      warehouse: AIRBYTE_WAREHOUSE
-      schema: AIRBYTE_SCHEMA
+      role: YOUR_ROLE
+      database: YOUR_DATABASE
+      warehouse: YOUR_WAREHOUSE
+      schema: YOUR_SCHEMA
       threads: 1
       client_session_keep_alive: False
       query_tag: dbt-q

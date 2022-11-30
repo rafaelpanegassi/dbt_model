@@ -4,9 +4,14 @@ Repositório para armazenar os artefatos da modelagem para transformacao dos dad
 
 Tarefas:
 
-- Editar o arquivo de project
-- Criar o arquivo de profile
-- Criar os modelos base
-- Criar o modelo relacionado
-- Criar o schema Testar a Execução
-- Conferir a Transformação no Data Warehouse
+- Editar o arquivo de project ✔️
+
+- Criar o arquivo de profile ✔️
+
+- Criar os modelos base ✔️
+
+- Criar o modelo relacionado ✔️
+
+- Criar o schema Testar a Execução ✔️
+
+- Conferir a Transformação no Data Warehouse ✔️
